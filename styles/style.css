@@ -17,9 +17,8 @@ p, li {
 
 
 html {
-  background-image: rgba(0, 0, 255, 0.5), url(".././images/oskar-yildiz-gy08FXe.jpg");
-  background-color: transparent;
-}
+  background-image: url(".././images/oskar-yildiz-gy08FXe.jpg");
+  opacity: 0.5;
 
 body {
   width: 600px;
