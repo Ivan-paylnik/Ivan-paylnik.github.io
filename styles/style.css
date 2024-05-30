@@ -1,5 +1,6 @@
 html {
-  font-size: 10px;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),url(".././images/oskar-yildiz-gy08FXe.jpg");
+  font-size: 20px;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -14,12 +15,6 @@ p, li {
   line-height: 2;
   letter-spacing: 1px;
 }
-
-
-html {
-  background-image: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),url(".././images/oskar-yildiz-gy08FXe.jpg");
-}
-
 
 body {
   width: 600px;
@@ -38,4 +33,13 @@ h1 {
 img {
   display: block;
   margin: 0 auto;
+}
+
+.btn {
+  margin-top: 30px;
+  display: inline-flex;
+  display: -webkit-inline-flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
 }
