@@ -36,6 +36,8 @@ img {
 }
 
 .btn {
+  color: #ffffff;
+  background-color: #1f5bff;
   margin-top: 30px;
   display: inline-flex;
   display: -webkit-inline-flex;
