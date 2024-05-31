@@ -92,7 +92,7 @@ hr { display: none; }
 
 #menu {
 	float: left;
-	padding-top: 25px;
+	padding-top: 30px;
 }
 
 #menu ul {
@@ -145,7 +145,7 @@ hr { display: none; }
 
 #search {
 	float: right;
-	padding: 25px 10px 0px 0px;
+	padding: 30px 10px 0px 0px;
 }
 
 #search form {
